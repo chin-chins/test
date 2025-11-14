@@ -40,3 +40,31 @@
 .read-the-docs {
   color: #888;
 }
+
+.test{
+  color: rgb(197, 205, 233);
+}
+
+.new-card{
+  background-color: white;
+  padding: 1.5rem;
+  width: 300px;
+  border-radius: 1rem;
+  box-shadow: 0 4px 14px rgba(101, 129, 189, 0.9);
+  text-align: center;
+  margin: auto;
+  color: black;
+}
+
+.profilepic{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+.email{
+  color: #555;
+  font-size: 0.9rem;
+}
